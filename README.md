@@ -1,5 +1,7 @@
 # ONNX Operators and Activations Checker for Barracuda
 
+![image](https://github.com/s4k10503/ONNX-Operators-and-Activations-Checker-for-Barracuda/assets/50241623/d934aa46-75aa-488b-b5c3-97e2d8292ab1)
+
 ## Overview
 
 This application allows users to load ONNX models and automatically check for operators and activation functions that are not supported by Unity Barracuda. It is built using Python and leverages the customtkinter library for a modern and stylish GUI.
